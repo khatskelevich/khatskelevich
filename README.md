@@ -6,7 +6,7 @@ My friends and colleagues knows me as a frontend developer. Software developer i
 - 💻 Tech Lead
 - 📚 Read IT literature, solve kata on codewars
 - ⛰ In my leisure time I enjoy hiking, snowboarding, playing football and boardgames
-- 📫 Reach me: [t.me/alexey.khatskelevich](t.me/alexey.khatskelevich)
+- 📫 Reach me: [https://t.me/alexey.khatskelevich](https://t.me/alexey.khatskelevich)
 
 ## Languages, Skills and Tools
 
