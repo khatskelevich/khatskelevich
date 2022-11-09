@@ -1,5 +1,9 @@
 # Hello, I'm Alex Khatskelevich.
 
+<section align="center">
+ <img src="https://user-images.githubusercontent.com/17164182/200818274-0151316c-9197-46df-b283-711b6ebb985f.gif">
+</section>
+
 My friends and colleagues knows me as a frontend developer. Software developer in weekends and holidays 😃
 
 - 🤖 I'm working in Promobot LCC. My goals are making robot's UI/UX more human-friendly
