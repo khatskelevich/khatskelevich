@@ -7,7 +7,7 @@
 My friends and colleagues knows me as a frontend developer. Software developer in weekends and holidays 😃
 
 - 🤖 I'm working in Promobot LCC. My goals are making robot's UI/UX more human-friendly
-- 💻 Tech Lead
+- 💻 Tech Lead, father of [RRStudio](https://promobot-education.github.io/RRStudio/)
 - 📚 Read IT literature, solve kata on codewars
 - ⛰ In my leisure time I enjoy hiking, snowboarding, playing football and boardgames
 - 📫 Reach me: [https://t.me/alexey.khatskelevich](https://t.me/alexey.khatskelevich)
