@@ -12,6 +12,8 @@ My friends and colleagues knows me as a frontend developer. Software developer i
 - ⛰ In my leisure time I enjoy hiking, snowboarding, playing football and boardgames
 - 📫 Reach me: [https://t.me/alexey.khatskelevich](https://t.me/alexey.khatskelevich)
 
+(: My Github is just for fun. For work I use Gitlab.
+
 ## Languages, Skills and Tools
 
 <div align="center">
